@@ -52,8 +52,8 @@
         "typescript": "^3.7.4"
     },
     "peerDependencies": {
-        "@nestjs/common": "^6.0.0 || ^7.0.0",
-        "@nestjs/core": "^6.0.0 || ^7.0.0",
+        "@nestjs/common": "^6.0.0 || ^8.0.0",
+        "@nestjs/core": "^6.0.0 || ^8.0.0",
         "@types/mongoose": "^5.0.0",
         "mongoose": "^5.4.19",
         "reflect-metadata": "^0.1.12",
