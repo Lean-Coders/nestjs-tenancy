@@ -1,9 +1,9 @@
 {
-    "name": "@needle-innovision/nestjs-tenancy",
-    "version": "1.0.19",
+    "name": "@leancoders/nestjs-tenancy",
+    "version": "1.0.0",
     "description": "Nestjs module for multitenancy support",
-    "author": "Sandeep K <sandeepsuvit@gmail.com>",
-    "repository": "https://github.com/needle-innovision/nestjs-tenancy",
+    "author": "Lean Coders <hello@lean-coders.at>",
+    "repository": "https://github.com/Lean-Coders/nestjs-tenancy",
     "license": "MIT",
     "private": false,
     "scripts": {
