@@ -1,6 +1,6 @@
 {
     "name": "@leancoders/nestjs-tenancy",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Nestjs module for multitenancy support",
     "author": "Lean Coders <hello@lean-coders.at>",
     "repository": "https://github.com/Lean-Coders/nestjs-tenancy",
@@ -57,7 +57,7 @@
         "@types/mongoose": "^6.0.0",
         "mongoose": "^6.0.0",
         "reflect-metadata": "^0.1.12",
-        "rxjs": "^6.0.0"
+        "rxjs": "^7.1.0"
     },
     "lint-staged": {
         "*.ts": [
